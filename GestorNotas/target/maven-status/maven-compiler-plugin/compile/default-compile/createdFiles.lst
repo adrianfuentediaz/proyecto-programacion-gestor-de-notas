@@ -1,0 +1,10 @@
+Users\User.class
+Notes\Note.class
+Users\Gestor.class
+Users\Builder.class
+Notes\TextNote.class
+com\mycompany\gestornotas\Menu.class
+Notes\MetodosNotes.class
+com\mycompany\gestornotas\GestorNotas.class
+Notes\Note$tipoNote.class
+Notes\TodoNote.class
